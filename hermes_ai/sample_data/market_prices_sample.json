@@ -1,0 +1,62 @@
+[
+  {
+    "symbol": "AAPL",
+    "price": 175.50,
+    "volume": 52000000,
+    "timestamp": "2025-10-31T16:00:00Z",
+    "open": 173.20,
+    "high": 176.80,
+    "low": 172.90,
+    "close": 175.50,
+    "market_cap": 2750000000000,
+    "pe_ratio": 28.5
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 142.30,
+    "volume": 28000000,
+    "timestamp": "2025-10-31T16:00:00Z",
+    "open": 140.50,
+    "high": 143.10,
+    "low": 140.20,
+    "close": 142.30,
+    "market_cap": 1800000000000,
+    "pe_ratio": 25.3
+  },
+  {
+    "symbol": "MSFT",
+    "price": 380.75,
+    "volume": 35000000,
+    "timestamp": "2025-10-31T16:00:00Z",
+    "open": 378.20,
+    "high": 382.50,
+    "low": 377.80,
+    "close": 380.75,
+    "market_cap": 2850000000000,
+    "pe_ratio": 32.1
+  },
+  {
+    "symbol": "TSLA",
+    "price": 245.60,
+    "volume": 95000000,
+    "timestamp": "2025-10-31T16:00:00Z",
+    "open": 242.10,
+    "high": 248.90,
+    "low": 241.50,
+    "close": 245.60,
+    "market_cap": 780000000000,
+    "pe_ratio": 65.4
+  },
+  {
+    "symbol": "AMZN",
+    "price": 178.90,
+    "volume": 42000000,
+    "timestamp": "2025-10-31T16:00:00Z",
+    "open": 176.50,
+    "high": 180.20,
+    "low": 176.10,
+    "close": 178.90,
+    "market_cap": 1850000000000,
+    "pe_ratio": 48.7
+  }
+]
